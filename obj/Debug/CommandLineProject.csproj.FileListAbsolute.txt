@@ -1,0 +1,7 @@
+D:\Visual Studio Projects (Training)\CommandLineProject\bin\Debug\CommandLineProject.exe.config
+D:\Visual Studio Projects (Training)\CommandLineProject\bin\Debug\CommandLineProject.exe
+D:\Visual Studio Projects (Training)\CommandLineProject\bin\Debug\CommandLineProject.pdb
+D:\Visual Studio Projects (Training)\CommandLineProject\obj\Debug\CommandLineProject.csproj.AssemblyReference.cache
+D:\Visual Studio Projects (Training)\CommandLineProject\obj\Debug\CommandLineProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects (Training)\CommandLineProject\obj\Debug\CommandLineProject.exe
+D:\Visual Studio Projects (Training)\CommandLineProject\obj\Debug\CommandLineProject.pdb
